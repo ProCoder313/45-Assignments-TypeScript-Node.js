@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.6"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "name": "q-4",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "types": "inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
